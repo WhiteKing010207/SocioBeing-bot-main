@@ -77,5 +77,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Credits
 
-- **Developer**: Mayank Verma
+- **Developer**: Meherobuddin Mandal
 - **Special Thanks**: Google GEMINI AI team for their support and API access.
